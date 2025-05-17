@@ -1,0 +1,1 @@
+Inventory managment system is a simple console app to store product using sime data structure like 2D array and it has some functions to add product, delete, update ,search, sort and display all products 
